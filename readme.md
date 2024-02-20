@@ -28,17 +28,9 @@
     <li><a href="#công-nghệ-được-sử-dụng">Công nghệ được sử dụng</a></li>
     <li>
       <a href="#chức-năng">Chức năng</a>
-      <ul>
-        <li><a href="#chức-năng-của-khách-hàng">Chức năng của khách hàng</a></li>
-        <li><a href="#chức-năng-của-admin">Chức năng của admin</a></li>
-      </ul>
     </li>
     <li>
-      <a href="#giao-diện-của-web">Giao diện</a>
-      <ul>
-        <li><a href="#giao-diện-chung">Giao diện chung</a></li>
-        <li><a href="#giao-diện-admin">Giao diện của admin</a></li>
-      </ul>
+      <a href="#giao-diện-của-ứng-dụng">Giao diện</a>
     </li>
     <li><a href="#ghi-chú-khác-khi-sử-dụng">Ghi chú</a></li>
   </ol>
@@ -55,94 +47,57 @@
 </div>
 
 #### Chức năng
-##### Chức năng của khách hàng:
-- Trang chủ hiển thị các sản phẩm nổi bật được mua nhiều.
-- Tìm kiếm sản phẩm theo tên.
-- Đăng ký, đăng nhập, giỏ hàng, trang người dùng, lịch sử mua hàng.
-- Trang chi tiết sản phẩm, giao diện gợi ý sản phẩm tương tự, đánh giá sản phẩm.
-##### Chức năng của admin:
-- Danh sách sản phẩm, thêm/sửa/xoá sản phẩm.
-- Danh sách đơn hàng, xem chi tiết đơn hàng.
-- Danh sách thư phản hồi.
-- Thống kê doanh thu.
+*Mô tả chức năng*
+Ứng dụng dự kiến sẽ chia ra hai phần là người dùng thường và admin.
+- Người sử dụng bình thường có thể xem, tìm kiếm, thêm sản phẩm vào giỏ hàng hoặc đặt hàng cũng như thay đổi thông tin của chính mình.
+- Admin có thể thêm / sửa / xoá các sản phẩm trong hệ thống.
 
-#### Giao diện của web
-##### Giao diện chung
+#### Giao diện của ứng dụng
 
 Trang chủ
 
-![Trang chủ](/screenshot/screenshot1.jpg)
-
-Sản phẩm nổi bật ở trang chủ
-
-![Trang chủ](/screenshot/screenshot2.jpg)
-
-Giới thiệu
-
-![Giới thiệu](/screenshot/screenshot3.jpg)
+![general](/screenshot/ss10.jpg)
 
 Sản phẩm
 
-![Sản phẩm](/screenshot/screenshot4.jpg)
+![general](/screenshot/ss9.jpg)
 
-Chi tiết sản phẩm - Sản phẩm tương tự
+Chi tiết sản phẩm
 
-![Sản phẩm](/screenshot/screenshot5.jpg)
+![general](/screenshot/ss8.jpg)
 
-Đánh giá sản phẩm
+Trang cá nhân
 
-![Sản phẩm](/screenshot/screenshot6.jpg)
+![general](/screenshot/ss7.jpg)
 
-Thông tin liên hệ
+Chỉnh sửa thông tin cá nhân
 
-![Liên hệ](/screenshot/screenshot7.jpg)
-
-Ý kiến đóng góp
-
-![Liên hệ](/screenshot/screenshot8.jpg)
+![general](/screenshot/ss5.jpg)
 
 Giỏ hàng
 
-![Cá nhân](/screenshot/screenshot12.jpg)
-
-Lịch sử mua hàng
-
-![Cá nhân](/screenshot/screenshot13.jpg)
-
-Đăng nhập
-
-![Đăng nhập](/screenshot/screenshot9.jpg)
-
-Đăng ký
-
-![Đăng ký](/screenshot/screenshot10.jpg)
-
-Admin đăng nhập
-
-![Đăng nhập](/screenshot/screenshot11.jpg)
-
-##### Giao diện admin
-
-Thư phản hồi
-
-![Admin](/screenshot/screenshot14.jpg)
+![general](/screenshot/ss6.jpg)
 
 Quản lý sản phẩm
 
-![Admin](/screenshot/screenshot15.jpg)
+![general](/screenshot/ss4.jpg)
 
-Quản lý hóa đơn
+Thêm / chỉnh sửa thông tin sản phẩm
 
-![Admin](/screenshot/screenshot16.jpg)
+![general](/screenshot/ss3.jpg)
 
-Thống kê doanh số
+Đăng nhập
 
-![Admin](/screenshot/screenshot17.jpg)
+![general](/screenshot/ss2.jpg)
+
+Đăng ký
+
+![general](/screenshot/ss1.jpg)
 
 #### Ghi chú khác khi sử dụng
-Tài khoản admin:
-- Username: admin
-- Password: admin
+Tài khoản mặc định:
+- Username: cqminh
+- Password: 123456abc
 
 <p align="right">(<a href="#readme-top">về bên trên</a>)</p>
 
